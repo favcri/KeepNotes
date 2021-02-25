@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Elite de l\'Elite</string>
+    <string name="edit_message">Entrez votre message</string>
+    <string name="button_send">Envoyer</string>
+</resources>
